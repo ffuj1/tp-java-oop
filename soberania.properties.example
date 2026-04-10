@@ -1,0 +1,6 @@
+seed=12345
+probabilidadSiniestro=0.10
+probabilidadVeeduria=0.05
+capacidadMochila=5
+cantidadBunkers=3
+archivoLog=registro_federal.log
