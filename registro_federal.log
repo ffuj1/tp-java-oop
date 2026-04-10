@@ -1,0 +1,16 @@
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+WARNING: Veeduria externa detectada en bunker ID=1. Se registra demora y se fuerza intervencion sin bajas civiles. Se activo control externo sobre el bunker ID=1.
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+INFO: Bunker procesado ID=1 | exito=true | activosRestantes=0 | ias=50.1
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+WARNING: Intervencion rechazada por resistencia superior en bunker ID=2. La eficacia 0.33954101022951844 no supero la resistencia del bunker ID=2.
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+WARNING: El apoyo no alcanzo para neutralizar el bunker ID=2. Se registra repliegue final y remanente por 31353433.
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+INFO: Bunker procesado ID=2 | exito=false | activosRestantes=6 | ias=50.1
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+WARNING: Intervencion rechazada por resistencia superior en bunker ID=3. La eficacia 0.43298621998522024 no supero la resistencia del bunker ID=3.
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+WARNING: No existe bunker de apoyo para ID=3. Se registra repliegue y remanente por 2667610.
+abr 10, 2026 2:08:42 P. M. OperacionSoberaniaFederal
+INFO: Bunker procesado ID=3 | exito=false | activosRestantes=1 | ias=50.1
